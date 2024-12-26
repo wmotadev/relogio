@@ -1,2 +1,2 @@
-# relogio
-relógio simples em js
+# 🕒 Tem um relógio aqui...
+Apenas um simples relógio feito em HTML, CSS e JS -> https://wmotadev.github.io/relogio/
